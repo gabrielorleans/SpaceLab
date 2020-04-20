@@ -52,7 +52,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DKRLFDBS
 
 [Document2]
 DocumentPath=MSP430_Task.PcbLib
@@ -69,10 +69,27 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DUYYNLXL
 
 [Document3]
 DocumentPath=SheetMSP.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WXUSLNCY
+
+[Document4]
+DocumentPath=MSP430_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -86,7 +103,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WXUSLNCY
+DocumentUniqueId=QQALYFSC
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for MSP430_Task\Design Rule Check - MSP430_PCB.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -883,8 +904,8 @@ Type6=2
 Type7=1
 Type8=1
 Type9=1
-Type10=1
-Type11=2
+Type10=0
+Type11=0
 Type12=2
 Type13=2
 Type14=1
@@ -932,7 +953,7 @@ Type55=1
 Type56=2
 Type57=1
 Type58=1
-Type59=2
+Type59=0
 Type60=1
 Type61=2
 Type62=2
